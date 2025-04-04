@@ -3,3 +3,4 @@ easyocr==1.7.1
 torch==2.2.0
 numpy>=1.25.0
 opencv-python
+ultralytics
